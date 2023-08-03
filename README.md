@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZNackly
 - 👀 I’m interested in bascketball
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me in Discord: znack_
 
 <!---
 ZNackly/ZNackly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
