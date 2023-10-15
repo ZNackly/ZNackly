@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZNackly
-- 👀 I’m interested in bascketball
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in basketball
+- 🌱 I’m currently learning JS
 - 📫 How to reach me in Discord: znack_
 
 <!---
