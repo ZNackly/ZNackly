@@ -79,55 +79,21 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-<br>
 <div align='left'>
 
-<ul>
 
-<li>
-
-</a>
-</li>
-
-
-
-<br>
-
-<li>
-</a>
-</li>
-	
-</ul>
 </div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+</br>
 
 <div align='center'>
 
 
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
-
-<br>
 
 Credit: [ZNackly](https://github.com/ZNackly)
 
