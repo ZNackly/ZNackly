@@ -3,21 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        h1 {
-            font-size: 900;
-            font-style: italic;
-            color:	rgb(20, 255, 255);
-        }
-        div {
-            font-size: 300;
-            font-style: oblique;
-            background: black;
-            width: 100vw;
-            height: 100vh;
-            color:	rgb(20, 255, 255);
-        }
-    </style>
+    
 </head>
 <body>
     <div>
