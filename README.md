@@ -11,6 +11,6 @@
         <li>I know Python, Django, Flask, OOP;</li>
         <li>My current goal is to learn JS React</li>
         <li>Follow my Github!</li>
-        <img src="https://i.ytimg.com/vi/n8hMphbfP-o/maxresdefault.jpg" alt="ReactJS" />
+        [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZNackly)](https://github.com/ZNackly/github-readme-stats)
 </body>
 </html>
