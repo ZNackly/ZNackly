@@ -103,8 +103,6 @@
 <br>
 
 <li>
-<a href="safin0677@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
