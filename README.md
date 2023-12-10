@@ -16,7 +16,7 @@
 <br>
 
 - Playing Minecraft at spare time
-- Currently learning ReactJS by Self
+- Currently learning C++ by Self
 
 <br><br>
 
