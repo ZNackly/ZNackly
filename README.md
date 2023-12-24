@@ -30,8 +30,7 @@
 - **Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-	<img src="https://camo.githubusercontent.com/0dc176976add53c960306227f875bdeb8b1f77a5db6b9fc8c86e227fce652c31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="Java" data-canonical-src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=orange" style="max-width: 100%;">
-<br>   
+	
     
 - **Front-End Development**:
 	
